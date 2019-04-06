@@ -1,0 +1,2 @@
+# EFAJS
+JavaScript class
